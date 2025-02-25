@@ -1,2 +1,3 @@
-# rehandshaikh-demo
-this is my first repository.
+# rehanshaikh-demo
+This is my first git repository.
+Author-Rehan Shaikh
